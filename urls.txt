@@ -1,0 +1,7 @@
+muenchen/ar/wp-json/extensions/v3/pages
+muenchen/bg/wp-json/extensions/v3/pages
+muenchen/de/wp-json/extensions/v3/pages
+muenchen/en/wp-json/extensions/v3/pages
+muenchen/fa/wp-json/extensions/v3/pages
+muenchen/ku/wp-json/extensions/v3/pages
+muenchen/ro/wp-json/extensions/v3/pages
